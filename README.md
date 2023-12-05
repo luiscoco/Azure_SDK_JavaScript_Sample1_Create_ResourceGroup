@@ -22,6 +22,7 @@ Inside a the **main.js** file place a sample code
 
 ```
 console.log("Hello World!");
+```
 
 Run the application typing the command:
 
