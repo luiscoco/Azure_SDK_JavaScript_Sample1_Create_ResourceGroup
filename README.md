@@ -1,4 +1,4 @@
-# Azure SDK JavaScript Sample1 Create ResourceGroup
+# First step in Azure SDK for JavaScript: create a ResourceGroup
 
 https://github.com/Azure/azure-sdk-for-js/blob/main/documentation/next-generation-quickstart.md
 
