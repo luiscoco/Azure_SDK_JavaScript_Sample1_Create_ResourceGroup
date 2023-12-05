@@ -32,14 +32,14 @@ Run the application typing the command:
 node main.js
 ```
 
-Load the application dependencies
+## 2. Load the application dependencies
 
 ```
 npm i @azure/identity
 npm i @azure/arm-resources
 ```
 
-Then input the application source code
+## 3. Then input the application source code
 
 ```js
 'use strict';
@@ -78,7 +78,7 @@ createResourceGroup("luismyrgfromjavascript");
 main();
 ```
 
-Run the application with the command
+## 4. Run the application with the command
 
 ```
 node main.js
