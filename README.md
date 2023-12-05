@@ -41,7 +41,7 @@ npm i @azure/arm-resources
 
 Then input the application source code
 
-```
+```js
 'use strict';
 
 const resources = require("@azure/arm-resources");
