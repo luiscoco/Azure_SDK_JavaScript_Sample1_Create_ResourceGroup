@@ -1,5 +1,7 @@
 # Azure SDK JavaScript Sample1 Create ResourceGroup
 
+https://github.com/Azure/azure-sdk-for-js/blob/main/documentation/next-generation-quickstart.md
+
 ## 1. Create a blank JavaScript application in VSCode
 
 Navigate to the folder where to place the new JavaScript application
