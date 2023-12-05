@@ -85,3 +85,6 @@ node main.js
 This is the output you will get
 
 ![image](https://github.com/luiscoco/Azure_SDK_JavaScript_Sample1_Create_ResourceGroup/assets/32194879/2b3d6e76-5d10-4368-9db0-21c8b6885bf1)
+
+![image](https://github.com/luiscoco/Azure_SDK_JavaScript_Sample1_Create_ResourceGroup/assets/32194879/46c74ba3-c4c3-491d-b111-c2885ad87000)
+
