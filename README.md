@@ -33,9 +33,6 @@ Load the application dependencies
 
 ```
 npm i @azure/identity
-```
-
-```
 npm i @azure/arm-resources
 ```
 
